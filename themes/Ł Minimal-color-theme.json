@@ -1,0 +1,110 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Dark (Visual Studio)",
+	"colors": {
+		"editor.background": "#16151a",
+		"editor.foreground": "#cacaca",
+		"editor.inactiveSelectionBackground": "#24283b",
+		"editorIndentGuide.background": "#464350",
+		"editorIndentGuide.activeBackground": "#49445c",
+		"editor.selectionHighlightBackground": "#747a8126",
+		"list.dropBackground": "#555166",
+		"activityBarBadge.background": "#575e62",
+		"sideBarTitle.foreground": "#BBBBBB",
+		"input.placeholderForeground": "#A6A6A6",
+		"menu.background": "#252429",
+		"menu.foreground": "#CCCCCC",
+		"statusBarItem.remoteForeground": "#FFF",
+		"statusBarItem.remoteBackground": "#268562",
+		"ports.iconRunningProcessForeground": "#4f9e4e",
+		"sideBarSectionHeader.background": "#0000",
+		"sideBarSectionHeader.border": "#585562",
+		"tab.lastPinnedBorder": "#696575",
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#6a6a77"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "keyword.control",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "keyword.other",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "storage",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "storage.modifier",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "meta.type",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "meta.type.annotation",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "meta.return-type",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#e66e37"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#a1da72"
+			}
+		}
+	]
+}

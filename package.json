@@ -1,0 +1,24 @@
+{
+    "name": "w-minimal",
+    "displayName": "Ł Minimal",
+    "description": "Minimalist editor theme",
+    "author": {
+        "name": "the trublesome ban"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ł Minimal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ł Minimal-color-theme.json"
+            }
+        ]
+    }
+}
